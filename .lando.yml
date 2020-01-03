@@ -1,0 +1,4 @@
+name: apm2a
+recipe: lamp
+config:
+  webroot: .
